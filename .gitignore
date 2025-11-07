@@ -1,0 +1,14 @@
+# Ignore environment variables and sensitive data
+.env
+
+# Ignore system and temporary files
+__pycache__/
+*.pyc
+
+# Ignore data folders (optional)
+data_history/
+archive_previous_day/
+exports/
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
