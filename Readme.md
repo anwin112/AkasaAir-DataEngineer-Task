@@ -4,7 +4,7 @@
 ### **Tech Stack:** Python, Pandas, SQLite, ipywidgets, dotenv, Matplotlib  
 ### **Author:** Anwin K Biju  
 ### **Organization:** Akasa Air (Data Engineer Interview Task)  
-### **Date:** November 2025
+### **Date:** 07-11-November 2025
 
 ---
 
@@ -101,7 +101,7 @@ pip install ipywidgets
 In your project root directory, create a file named .env with the following contents:
 
 DATA_PIPELINE_USER=data_pipeline_user
-DATA_PIPELINE_PASS=P@ssw0rd123@
+DATA_PIPELINE_PASS=Pssw0rd123@
 EXPORT_USER=analyst_user
 EXPORT_PASS=AnalystPass
 
